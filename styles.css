@@ -37,10 +37,14 @@ h1 {
   margin: 0 auto 10px;
 }
 
+.project h3 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
 .project p {
-  margin: 0;
-  padding: 10px 0;
-  text-align: left;
+  padding: 0 10px;
+  word-wrap: break-word;
 }
 
 .contact {
