@@ -1,23 +1,24 @@
 body {
-  background: #f4f6f6;
+  background: #005f73;
   font-family: Arial, Helvetica, sans-serif;
-  color: #2d2d2d
+  color: #333333;
 }
+
 h1 {
-  color: #005f73;
+  color: #333333;
   text-align: center;
 }
 
 .about {
-  background: #fafafa;
+  background: #007f9c;
 }
 
 .skills {
-  background: #ebf7f4;
+  background: #007f9c;
 }
 
 .projects {
-  background: #0a9396;
+  background: #333333;
   display:flex;
   flex-wrap:wrap;
   color: #fafafa;
@@ -27,7 +28,7 @@ h1 {
   width: 30%;
   margin: 10px;
   padding: 20px 10px;
-  background: #fafafa;
+  background: #007f9c;
   border-radius: 10%;
 }
 
@@ -43,7 +44,7 @@ h1 {
   margin-top: 10px;
   margin-bottom: 5px;
   padding-left: 40px;
-  color: #005f73;
+  color: #333333;
 }
 
 .project p {
@@ -53,6 +54,6 @@ h1 {
 }
 
 .contact {
-  background: #94d2bd;
-  color: #003845;
+  background: #007f9c;
+  color: #333333;
 }
