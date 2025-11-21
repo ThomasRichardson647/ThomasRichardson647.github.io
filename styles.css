@@ -1,31 +1,33 @@
 body {
-  background: green;
+  background: #f4f6f6;
   font-family: Arial, Helvetica, sans-serif;
+  color: #2d2d2d
 }
 h1 {
-  color: blueviolet;
+  color: #005f73;
   text-align: center;
 }
 
 .about {
-  background: whitesmoke;
+  background: #fafafa;
 }
 
 .skills {
-  background: bisque;
+  background: #ebf7f4;
 }
 
 .projects {
-  background: purple;
+  background: #0a9396;
   display:flex;
   flex-wrap:wrap;
+  color: #fafafa;
 }
 
 .project {
   width: 30%;
   margin: 10px;
   padding: 20px 10px;
-  background: lightgray;
+  background: #fafafa;
   border-radius: 10%;
 }
 
@@ -41,13 +43,16 @@ h1 {
   margin-top: 10px;
   margin-bottom: 5px;
   padding-left: 40px;
+  color: #005f73;
 }
 
 .project p {
   padding: 0 10px;
   word-wrap: break-word;
+  color: #333333;
 }
 
 .contact {
-  background: chartreuse;
+  background: #94d2bd;
+  color: #003845;
 }
