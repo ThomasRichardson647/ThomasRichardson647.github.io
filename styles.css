@@ -10,18 +10,26 @@ h1 {
 }
 
 .about {
-  background: #007f9c;
+  background: #333333;
+  color: #fafafa;
 }
 
 .skills {
-  background: #007f9c;
+  background: #333333;
+  color: #fafafa;
 }
 
 .projects {
   background: #333333;
-  display:flex;
-  flex-wrap:wrap;
+  display: flex;
+  flex-wrap: wrap;
   color: #fafafa;
+}
+
+.projects_contain {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .project {
@@ -54,6 +62,6 @@ h1 {
 }
 
 .contact {
-  background: #007f9c;
-  color: #333333;
+  background: #333333;
+  color: #fafafa;
 }
