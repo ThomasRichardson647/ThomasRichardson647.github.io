@@ -10,11 +10,13 @@ h1 {
 }
 
 .about {
+  padding: 20px 40px;
   background: #333333;
   color: #fafafa;
 }
 
 .skills {
+  padding: 20px 40px;
   background: #333333;
   color: #fafafa;
 }
@@ -24,6 +26,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   color: #fafafa;
+  padding: 20px 40px;
 }
 
 .projects_contain {
@@ -62,6 +65,7 @@ h1 {
 }
 
 .contact {
+  padding: 20px 40px;
   background: #333333;
   color: #fafafa;
 }
